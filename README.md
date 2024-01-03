@@ -11,26 +11,24 @@
 # Skills
 
 ## Languages
-![Java](<img align="center" style="margin:0.5rem" src="https://skillicons.dev/icons?i=java" width="25" height="25"/>)
-![JavaScript](<img align="center" style="margin:0.5rem" src="https://skillicons.dev/icons?i=javascript" width="25" height="25"/>)
+![Java](https://img.shields.io/badge/Java-ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black)
 
 ## Frameworks
-![Spring](https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg)
+![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white)
 
 ## Testing
 ![JUnit](https://img.shields.io/badge/JUnit-25A162.svg?&style=for-the-badge&logo=junit5&logoColor=white)
 
 # Tools
-
-![Git](https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg)
-![IntelliJ IDEA](https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg)
-![Visual Studio Code](https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg)
+![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?&style=for-the-badge&logo=intellijidea&logoColor=white)
 
 # Database
 
-![SQL Server](https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927.svg?&style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
 # Styling
-
-![HTML5](https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg)
-![CSS3](https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
