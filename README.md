@@ -1,7 +1,7 @@
 ### Hi there, I'm Nikola.👋
 I'm currently studying for Java Web Developer.
 
-# GitHub Stats
+# 📈 GitHub Stats
 
 ## Most Used Languages
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NikolaYordanov94&theme=dark&layout=compact)
@@ -9,7 +9,7 @@ I'm currently studying for Java Web Developer.
 ## Nikola Yordanov's GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NikolaYordanov94&show_icons=true&theme=dark)
 
-# Skills
+# 👨🏻‍💻 Skills
 
 ## Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white)
