@@ -6,7 +6,7 @@
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?NikolaYordanov94=NikolaYordanov94&theme=dark&layout=compact)
 
 ## Nikola Yordanov's GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=username&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?NikolaYordanov94=NikolaYordanov94&show_icons=true&theme=dark)
 
 # Skills
 
