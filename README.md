@@ -12,23 +12,24 @@ I'm currently studying for Java Web Developer.
 # 👨🏻‍💻 Skills
 
 ## Languages
-![Java](https://img.shields.io/badge/Java-ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white)
+![Java](https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg)
 ![JavaScript](https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg)
 
 ## Frameworks
-![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white)
+![Spring](https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg)
 
 ## Testing
 ![JUnit](https://img.shields.io/badge/JUnit-25A162.svg?&style=for-the-badge&logo=junit5&logoColor=white)
 
 ## Tools
-![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?&style=for-the-badge&logo=intellijidea&logoColor=white)
+![Git](https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg)
+![GitHub](https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg)
+![IntelliJ IDEA](https://github.com/tandpfun/skill-icons/blob/main/icons/Idea-Dark.svg)
+![Visual Studio Code](https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg)
 
 ## Database
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927.svg?&style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![SQL Server](https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg)
 
 ## Styling
-![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg)
+![CSS3](https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg)
