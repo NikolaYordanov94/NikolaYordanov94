@@ -13,7 +13,7 @@ I'm currently studying for Java Web Developer.
 
 ## Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black)
+![JavaScript](https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg)
 
 ## Frameworks
 ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white)
