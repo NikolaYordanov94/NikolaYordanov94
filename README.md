@@ -18,20 +18,28 @@ I'm currently studying for Java Web Developer.
 </p>
 
 ## Frameworks
-![Spring](https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg)
+<p align="left">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg" width="40" height="40" alt="Spring">
+</p>
 
 ## Testing
 ![JUnit](https://img.shields.io/badge/JUnit-25A162.svg?&style=for-the-badge&logo=junit5&logoColor=white)
 
 ## Tools
-![Git](https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg)
-![GitHub](https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg)
-![IntelliJ IDEA](https://github.com/tandpfun/skill-icons/blob/main/icons/Idea-Dark.svg)
-![Visual Studio Code](https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg)
+<p align="left">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="40" height="40" alt="Git">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" width="40" height="40" alt="GitHub">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Idea-Dark.svg" width="40" height="40" alt="IntelliJ IDEA">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" width="40" height="40" alt="Visual Studio Code">
+</p>
 
 ## Database
-![SQL Server](https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg)
+<p align="left">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" width="40" height="40" alt="SQL Server">
+</p>
 
 ## Styling
-![HTML5](https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg)
-![CSS3](https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg)
+<p align="left">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="40" height="40" alt="HTML5">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="40" height="40" alt="CSS3">
+</p>
