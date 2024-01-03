@@ -11,8 +11,8 @@
 # Skills
 
 ## Languages
-![Java](https://skillicons.dev/icons?i=java)
-![JavaScript](https://skillicons.dev/icons?i=javascript)
+![Java](<img align="center" style="margin:0.5rem" src="https://skillicons.dev/icons?i=java" width="25" height="25"/>)
+![JavaScript](<img align="center" style="margin:0.5rem" src="https://skillicons.dev/icons?i=javascript" width="25" height="25"/>)
 
 ## Frameworks
 ![Spring](https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg)
