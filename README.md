@@ -1,16 +1,21 @@
 ### Hi there 👋
 
-<!--
-**NikolaYordanov94/NikolaYordanov94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# GitHub Stats
 
-Here are some ideas to get you started:
+## Most Used Languages
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=username&theme=dark&layout=compact)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Nikola Yordanov's GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=username&show_icons=true&theme=dark)
+
+# Skills
+
+## Languages
+![Java](https://img.shields.io/badge/Java-ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black)
+
+## Frameworks
+![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white)
+
+## Testing
+![JUnit](https://img.shields.io/badge/JUnit-25A162.svg?&style=for-the-badge&logo=junit5&logoColor=white)
