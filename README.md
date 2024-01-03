@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there, I'm Nikola.👋
+I'm currently studying for Java Web Developer.
 
 # GitHub Stats
 
