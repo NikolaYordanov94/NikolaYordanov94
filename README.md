@@ -12,8 +12,10 @@ I'm currently studying for Java Web Developer.
 # 👨🏻‍💻 Skills
 
 ## Languages
-![Java](https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg)
-![JavaScript](https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg)
+<p align="left">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" width="40" height="40" alt="Java">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="40" height="40" alt="JavaScript">
+</p>
 
 ## Frameworks
 ![Spring](https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg)
