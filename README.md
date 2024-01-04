@@ -23,7 +23,9 @@ I'm currently studying for Java Web Developer.
 </p>
 
 ## Testing
-![JUnit](https://img.shields.io/badge/JUnit-25A162.svg?&style=for-the-badge&logo=junit5&logoColor=white)
+<p align="left">
+  <img src="https://github.com/devicons/devicon/blob/develop/icons/junit/junit-original-wordmark.svg" width="40" height="40" alt="JUnit">
+</p>
 
 ## Tools
 <p align="left">
