@@ -1,5 +1,5 @@
 ### Hi there, I'm Nikola.👋
-I'm currently studying for Java Web Developer.
+As a driven Java Web Development student with experience in Java, Spring MVC, and MySQL, I am committed to learning and delivering impactful solutions.
 
 # 📈 GitHub Stats
 
